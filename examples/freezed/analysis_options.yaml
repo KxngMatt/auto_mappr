@@ -1,5 +1,0 @@
-include: package:netglade_analysis/lints.yaml
-
-analyzer:
-  exclude:
-    - "**/*.freezed.dart"
