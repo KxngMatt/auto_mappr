@@ -14,6 +14,7 @@ import 'package:auto_mappr_annotation/auto_mappr_annotation.dart' as annotation;
 import 'package:build/build.dart';
 import 'package:collection/collection.dart';
 import 'package:source_gen/source_gen.dart';
+import 'package:collection/collection.dart';
 
 /// Code generator to generate implemented mapping classes.
 class AutoMapprGenerator extends GeneratorForAnnotation<annotation.AutoMappr> {
